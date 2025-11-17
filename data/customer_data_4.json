@@ -1,0 +1,12 @@
+[
+    { "CustomerID": "C001", "FullName": "Alice Johnson", "Email": "alice.johnson@example.com", "PhoneNumber": "555-980-4337", "City": "New York", "Age": 53, "Gender": "Female", "LoyaltyStatus": "Bronze", "CreditScore": 822    },
+    { "CustomerID": "C002", "FullName": "Bob Smith", "Email": "bob.smith@example.com", "PhoneNumber": "555-916-4679", "City": "Chicago", "Age": 40, "Gender": "Male", "LoyaltyStatus": "Silver", "CreditScore": 711    },
+    { "CustomerID": "C003", "FullName": "Carol Lee", "Email": "carol.lee@example.com", "PhoneNumber": "555-621-5430", "City": "San Diego", "Age": 18, "Gender": "Female", "LoyaltyStatus": "Gold", "CreditScore": 610    },
+    { "CustomerID": "C004", "FullName": "David Kim", "Email": "david.kim@example.com", "PhoneNumber": "555-959-9638", "City": "Austin", "Age": 49, "Gender": "Male", "LoyaltyStatus": "Bronze", "CreditScore": 589    },
+    { "CustomerID": "C005", "FullName": "Eva Martinez", "Email": "eva.martinez@example.com", "PhoneNumber": "555-116-5138", "City": "Seattle", "Age": 57, "Gender": "Female", "LoyaltyStatus": "Platinum", "CreditScore": 552    },
+    { "CustomerID": "C006", "FullName": "Frank Wright", "Email": "frank.wright@example.com", "PhoneNumber": "555-999-9453", "City": "Denver", "Age": 66, "Gender": "Male", "LoyaltyStatus": "Platinum", "CreditScore": 510    },
+    { "CustomerID": "C007", "FullName": "Grace Chen", "Email": "grace.chen@example.com", "PhoneNumber": "555-416-7540", "City": "Boston", "Age": 41, "Gender": "Female", "LoyaltyStatus": "Bronze", "CreditScore": 712    },
+    { "CustomerID": "C008", "FullName": "Henry Patel", "Email": "henry.patel@example.com", "PhoneNumber": "555-640-2842", "City": "Miami", "Age": 37, "Gender": "Male", "LoyaltyStatus": "Gold", "CreditScore": 801    },
+    { "CustomerID": "C009", "FullName": "Irene Thompson", "Email": "irene.thompson@example.com", "PhoneNumber": "555-795-7023", "City": "Phoenix", "Age": 67, "Gender": "Female", "LoyaltyStatus": "Gold", "CreditScore": 520    },
+    { "CustomerID": "C010", "FullName": "Jack Nguyen", "Email": "jack.nguyen@example.com", "PhoneNumber": "555-298-1940", "City": "Dallas", "Age": 49, "Gender": "Male", "LoyaltyStatus": "Silver", "CreditScore": 482    }
+]

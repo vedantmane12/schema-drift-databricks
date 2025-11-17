@@ -1,0 +1,7 @@
+[
+    {        "CustomerID": "C001",        "FullName": "Alice Johnson",    "Email": "alice.j@example.com",        "PhoneNumber": "555-123-4567",        "City": "New York",        "SignupDate": "2023-01-15"    },
+    {        "CustomerID": "C002",        "FullName": "Bob Smith",        "Email": "bob.smith@example.com",        "PhoneNumber": "555-234-5678",        "City": "Chicago",        "SignupDate": "2023-02-20"    },
+    {        "CustomerID": "C003",        "FullName": "Carol Lee",        "Email": "carol.lee@example.com",        "PhoneNumber": "555-345-6789",        "City": "San Diego",        "SignupDate": "2023-03-05"    },
+    {        "CustomerID": "C004",        "FullName": "David Kim",        "Email": "david.kim@example.com",        "PhoneNumber": "555-456-7890",       "City": "Austin",        "SignupDate": "2023-04-12"    },
+    {        "CustomerID": "C010",        "FullName": "Jack Nguyen",        "Email": "jack.n@example.com",        "PhoneNumber": "555-012-3456",        "City": "Dallas",        "SignupDate": "2023-10-21"    }
+]

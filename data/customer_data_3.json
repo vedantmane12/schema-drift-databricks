@@ -1,0 +1,11 @@
+[
+    { "CustomerID": "C001", "FullName": "Michael Webb", "Email": "huntsamantha@example.com", "PhoneNumber": "001-711-328-0096", "City": "North William", "SignupDate": "2024-04-10", "Age": 49, "Gender": "Male", "LoyaltyStatus": "Platinum" },
+    { "CustomerID": "C002", "FullName": "Chris Hensley", "Email": "susanwilson@example.org", "PhoneNumber": "001-787-381-7723", "City": "East Christopherview", "SignupDate": "2024-09-11", "Age": 60, "Gender": "Female", "LoyaltyStatus": "Gold" },
+    { "CustomerID": "C003", "FullName": "Courtney White", "Email": "taylorbarr@example.net", "PhoneNumber": "3402852594", "City": "Jamesstad", "SignupDate": "2024-02-18", "Age": 22, "Gender": "Male", "LoyaltyStatus": "Bronze" },
+    { "CustomerID": "C004", "FullName": "Cynthia Mills", "Email": "thayes@example.net", "PhoneNumber": "694-884-5528x7633", "City": "Port Joanna", "SignupDate": "2024-08-26", "Age": 52, "Gender": "Male", "LoyaltyStatus": "Gold" },
+    { "CustomerID": "C005", "FullName": "Sandra Taylor", "Email": "chadanderson@example.com", "PhoneNumber": "5194474151", "City": "Grantborough", "SignupDate": "2024-07-18", "Age": 61, "Gender": "Male", "LoyaltyStatus": "Platinum" },
+    { "CustomerID": "C006", "FullName": "Kimberly Daugherty", "Email": "joshua55@example.net", "PhoneNumber": "679-741-5908x091", "City": "New Garrett", "SignupDate": "2025-01-12", "Age": 21, "Gender": "Female", "LoyaltyStatus": "Platinum" },
+    { "CustomerID": "C007", "FullName": "Lindsey Mcguire", "Email": "lglover@example.org", "PhoneNumber": "342-569-7735x921", "City": "Lake Bryan", "SignupDate": "2024-07-23", "Age": 44, "Gender": "Male", "LoyaltyStatus": "Platinum" },
+    { "CustomerID": "C009", "FullName": "Caroline Morris", "Email": "ucoffey@example.net", "PhoneNumber": "+1-738-592-5919x344", "City": "Taylorview", "SignupDate": "2024-09-28", "Age": 29, "Gender": "Male", "LoyaltyStatus": "Gold" },
+    { "CustomerID": "C011", "FullName": "Benjamin Fernandez", "Email": "matthewthomas@example.net", "PhoneNumber": "520-274-1325", "City": "Woodsport", "SignupDate": "2024-09-18", "Age": 55, "Gender": "Male", "LoyaltyStatus": "Bronze" }
+]
